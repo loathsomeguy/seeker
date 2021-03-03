@@ -108,7 +108,7 @@ python3 seeker.py -t manual
 ./ngrok http 8080
 ```
 
-hoto upload path for WhatsApp group would be
+## Photo upload path for WhatsApp group would be
 ```bash
 /storage/emulated/0/Download/images.png
 ```
