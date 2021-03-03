@@ -88,12 +88,6 @@ chmod 777 install.sh
 pacman -S seeker
 ```
 
-### Docker
-
-```bash
-docker pull loathsomeguy/seeker
-```
-
 ### Termux
 
 ```bash
@@ -112,37 +106,12 @@ python3 seeker.py -t manual
 
 # In Second Terminal Start Ngrok or any other tunnel service on port 8080
 ./ngrok http 8080
-
-#-----------------------------------#
-
-# Subdomain
-########### 
-python3 seeker.py --subdomain google
-python3 seeker.py --tunnel manual --subdomain zomato
-
-#-----------------------------------#
-
-# Docker Usage
-##############
-
-# SERVEO
-########
-docker run -t --rm loathsomeguy/seeker
-
-# NGROK
-#######
-
-# Step 1
-docker network create ngroknet
-
-# Step 2
-docker run --rm -t --net ngroknet --name seeker loathsomeguy/seeker python3 seeker.py -t manual
-
-# Step 3
-docker run --rm -t --net ngroknet --name ngrok wernight/ngrok ngrok http seeker:8080
 ```
 
+hoto upload path for WhatsApp group would be
+```bash
+/storage/emulated/0/Download/images.png
+```
 ## Known Problems
 
 * Services like Serveo and Ngrok are banned in some countries such as Russia etc., so if it's banned in your country you may not get a URL, if not then first READ CLOSED ISSUES, if your problem is not listed, create a new issue.
-
