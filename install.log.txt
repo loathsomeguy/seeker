@@ -1,0 +1,33 @@
+Ign:1 https://dl.bintray.com/termux/termux-packages-24 stable InRelease
+Ign:2 https://dl.bintray.com/grimler/game-packages-24 games InRelease
+Ign:3 https://dl.bintray.com/grimler/science-packages-24 science InRelease
+Ign:4 https://dl.bintray.com/xeffyr/unstable-packages unstable InRelease
+Get:5 https://dl.bintray.com/termux/termux-packages-24 stable Release [8255 B]
+Get:6 https://dl.bintray.com/grimler/game-packages-24 games Release [5344 B]
+Get:7 https://dl.bintray.com/grimler/science-packages-24 science Release [6191 B]
+Get:8 https://dl.bintray.com/xeffyr/unstable-packages unstable Release [6065 B]
+Get:9 https://dl.bintray.com/termux/termux-packages-24 stable Release.gpg [821 B]
+Get:13 https://dl.bintray.com/termux/termux-packages-24 stable/main aarch64 Packages [123 kB]
+Fetched 149 kB in 9s (17.3 kB/s)
+Reading package lists...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+E: Unable to locate package python3
+E: Unable to locate package python3-pip
+Reading package lists...
+Building dependency tree...
+Reading state information...
+php is already the newest version (7.4.11-2).
+0 upgraded, 0 newly installed, 0 to remove and 1 not upgraded.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+E: Unable to locate package ssh
+Requirement already satisfied: requests in /data/data/com.termux/files/usr/lib/python3.9/site-packages (2.24.0)
+Requirement already satisfied: chardet<4,>=3.0.2 in /data/data/com.termux/files/usr/lib/python3.9/site-packages (from requests) (3.0.4)
+Requirement already satisfied: certifi>=2017.4.17 in /data/data/com.termux/files/usr/lib/python3.9/site-packages (from requests) (2020.6.20)
+Requirement already satisfied: idna<3,>=2.5 in /data/data/com.termux/files/usr/lib/python3.9/site-packages (from requests) (2.10)
+Requirement already satisfied: urllib3!=1.25.0,!=1.25.1,<1.26,>=1.21.1 in /data/data/com.termux/files/usr/lib/python3.9/site-packages (from requests) (1.25.11)
+WARNING: You are using pip version 20.2.3; however, version 20.2.4 is available.
+You should consider upgrading via the '/data/data/com.termux/files/usr/bin/python3 -m pip install --upgrade pip' command.

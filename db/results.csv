@@ -1,0 +1,5 @@
+OS,Platform,CPU Cores,RAM,GPU Vendor,GPU,Resolution,Browser,IP Address,Continent,Country,Region,City,Organisation,ISP,Latitude,Longitude,Accuracy,Altitude,Direction,Speed
+27.863951 deg,78.0765783 deg,20 m,Not Available,Not Available,Not Available
+Android 10,Linux armv8l,8,4,Qualcomm,Adreno (TM) 618,486x1052,Chrome/85.0.4183.101,2402:3a80:929:d9d9:f936:fa01:fe77:a597,Asia,India,Delhi,New Delhi,Vodafone India Ltd.,Vodafone India Ltd.,26.4805115 deg,77.9872479 deg,2200 m,Not Available,Not Available,Not Available
+26.4805115 deg,77.9872479 deg,2200 m,Not Available,Not Available,Not Available
+Android 9,Linux armv8l,8,4,Qualcomm,Adreno (TM) 618,486x1052,Chrome/83.0.0.0,2405:201:6800:f028:98a9:d9b0:5c6f:2d48,Asia,India,Tamil Nadu,St.Thomas Mount,Reliance Jio Infocomm Limited,Reliance Jio Infocomm Limited,27.8639512 deg,78.0765777 deg,20 m,Not Available,Not Available,Not Available

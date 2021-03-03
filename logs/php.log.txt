@@ -1,0 +1,31 @@
+[Fri Nov 13 04:05:36 2020] PHP 7.4.11 Development Server (http://0.0.0.0:8080) started
+[Fri Nov 13 04:05:39 2020] 127.0.0.1:37870 Accepted
+[Fri Nov 13 04:05:39 2020] 127.0.0.1:37870 [200]: (null) /index.html
+[Fri Nov 13 04:05:39 2020] 127.0.0.1:37870 Closing
+[Fri Nov 13 04:07:42 2020] 127.0.0.1:37878 Accepted
+[Fri Nov 13 04:07:42 2020] 127.0.0.1:37878 [200]: (null) /
+[Fri Nov 13 04:07:42 2020] 127.0.0.1:37878 Closing
+[Fri Nov 13 04:12:16 2020] 127.0.0.1:37894 Accepted
+[Fri Nov 13 04:12:16 2020] 127.0.0.1:37894 [200]: (null) /
+[Fri Nov 13 04:12:16 2020] 127.0.0.1:37894 Closing
+[Fri Nov 13 04:12:16 2020] 127.0.0.1:37898 Accepted
+[Fri Nov 13 04:12:16 2020] 127.0.0.1:37900 Accepted
+[Fri Nov 13 04:12:16 2020] 127.0.0.1:37896 Accepted
+[Fri Nov 13 04:12:16 2020] 127.0.0.1:37902 Accepted
+[Fri Nov 13 04:12:17 2020] 127.0.0.1:37902 [200]: (null) /js/main.js
+[Fri Nov 13 04:12:17 2020] 127.0.0.1:37904 Accepted
+[Fri Nov 13 04:12:17 2020] 127.0.0.1:37898 [200]: (null) /js/warpspeed.min.js
+[Fri Nov 13 04:12:17 2020] 127.0.0.1:37900 [200]: (null) /js/location.js
+[Fri Nov 13 04:12:17 2020] 127.0.0.1:37896 [200]: (null) /css/main.css
+[Fri Nov 13 04:12:17 2020] 127.0.0.1:37904 [200]: (null) /js/info.js
+[Fri Nov 13 04:12:17 2020] 127.0.0.1:37902 Closing
+[Fri Nov 13 04:12:17 2020] 127.0.0.1:37898 Closing
+[Fri Nov 13 04:12:17 2020] 127.0.0.1:37900 Closing
+[Fri Nov 13 04:12:17 2020] 127.0.0.1:37896 Closing
+[Fri Nov 13 04:12:17 2020] 127.0.0.1:37904 Closing
+[Fri Nov 13 04:12:20 2020] 127.0.0.1:37906 Accepted
+[Fri Nov 13 04:12:21 2020] 127.0.0.1:37906 [200]: POST /php/info.php
+[Fri Nov 13 04:12:21 2020] 127.0.0.1:37906 Closing
+[Fri Nov 13 04:12:43 2020] 127.0.0.1:37914 Accepted
+[Fri Nov 13 04:12:43 2020] 127.0.0.1:37914 [200]: POST /php/error.php
+[Fri Nov 13 04:12:43 2020] 127.0.0.1:37914 Closing
