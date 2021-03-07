@@ -20,7 +20,7 @@
   <img src="https://i.imgur.com/1wJVDV5.png">
 </p>
 
-Concept behind Seeker is simple, just like we host phishing pages to get credentials why not host a fake page that requests your location like many popular location based websites. Contact for more on <a href="https://instagram.com/loathfaith"> Tej's Page </a>.Seeker Hosts a fake website on **In Built PHP Server** and uses **Serveo** to generate a link which we will forward to the target, website asks for Location Permission and if the target allows it, we can get :
+Concept behind Seeker is simple, just like we host phishing pages to get credentials why not host a fake page that requests your location like many popular location based websites. Contact for more on <a href="https://instagram.com/loathfaith"> Tej's Page </a>.Seeker Hosts a fake website on **In Built PHP Server** and uses **NGROK** to generate a link which we will forward to the target, website asks for Location Permission and if the target allows it, we can get :
 
 * Longitude
 * Latitude
@@ -114,4 +114,4 @@ python3 seeker.py -t manual
 ```
 ## Known Problems
 
-* Services like Serveo and Ngrok are banned in some countries such as Russia etc., so if it's banned in your country you may not get a URL, if not then first READ CLOSED ISSUES, if your problem is not listed, create a new issue.
+* Services like Serveo and Ngrok are banned in some countries, In India Ngrok is working. so if it is banned in your country you may not get a URL, if not then first READ CLOSED ISSUES, if your problem is not listed, create a new issue.
