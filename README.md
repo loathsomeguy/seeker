@@ -116,5 +116,5 @@ python3 seeker.py -t manual
 
 * Services like Serveo and Ngrok are banned in some countries, In India Ngrok is working. so if it is banned in your country you may not get a URL, if not then first READ CLOSED ISSUES, if your problem is not listed, create a new issue.
 
-## WARNING : 
+## Warning :
 ***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
